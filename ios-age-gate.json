@@ -1,1 +1,8 @@
-{"enabled":true}
+{
+  "versions": {
+    "0.44.32": {
+      "zh": false,
+      "non_zh": false
+    }
+  }
+}
